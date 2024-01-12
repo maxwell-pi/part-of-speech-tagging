@@ -17,3 +17,5 @@ Classes:
 * CRF_Tagger.py: Tagger object which takes featurizer, algorithm, and hyperparameters to perform tagging
 * Featurizers.py: File with featurizer functions
 * Tag_Utils.py: Util functions to read data, perform evaluations
+
+Check NLP_Report.pdf for reported metrics.
